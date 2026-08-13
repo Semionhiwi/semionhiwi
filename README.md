@@ -1,6 +1,6 @@
 # Semion Raitsev
 
-**CS Student @ Hochschule Darmstadt | Systems Automation Engineer @ Fahrrad XXL **
+**CS Student @ Hochschule Darmstadt | Systems Automation Engineer @ Fahrrad XXL**
 
 Bridging business workflows and technical systems. I build production automation tools that connect legacy ERP systems (currently for example NAV 2009), inventory management, and internal tooling. Currently architecting a greenfield multi-location inventory analytics platform across retail operations.
 
