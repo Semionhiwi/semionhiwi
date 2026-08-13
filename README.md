@@ -1,36 +1,27 @@
-## Hi there 👋
+# Semion Raitsev
 
-Hi my name is **Semion** and I am **CS Student** based in Hesse, **Germany**! 
-Currenty I am interested in all things **C++** and **Software Development**.
-I like to explore how things work under the hood and getting carried away in **deep research**.
+**CS Student @ Hochschule Darmstadt | Systems Automation Engineer @ Fahrrad XXL **
+
+Bridging business workflows and technical systems. I build production automation tools that connect legacy ERP systems (currently for example NAV 2009), inventory management, and internal tooling. Currently architecting a greenfield multi-location inventory analytics platform across retail operations.
+
+## What I do
+
+- Systems architecture & process automation (Python, SQL, Azure ecosystem)
+- ERP integration & data pipelines (SOAP APIs, middleware layers)  
+- Translating business requirements into implementable solutions
+
+## Background
+
+University foundation in (among others) C++, data structures, algorithms. Now learning how production actually works — constraints, legacy systems.
+
+## What's next
+
+Finishing bachelor early 2027. Master's starting October 2027 (Systems Engineering or CS).
+
+## Open to
+
+Collaboration on all systems :). 
 
 ---
 
-- 🔭 I’m currently working on getting my **Degree** finished 
-- 🌱 I’m currently learning modern **Software architecture**, and complex **Data structures**
-- 👯 I’m looking to collaborate on **open-source C++ projects** or **student-led tech initiatives**.
-
-
-
-📫 **How to reach me:**  
-[LinkedIn](https://www.linkedin.com/in/semion-raitsev-3895381b3/) 
-
----
-⭐️ _Thanks for visiting my profile!_
-
-
-
-<!--
-**Semionhiwi/semionhiwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[LinkedIn](https://www.linkedin.com/in/semion-raitsev-3895381b3/)**
